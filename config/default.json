@@ -1,0 +1,3 @@
+{"mongoURI":"mongodb+srv://mihir:<12345>@devconnecter.lgev5.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+,"jwtSecret":"mihir"
+}
